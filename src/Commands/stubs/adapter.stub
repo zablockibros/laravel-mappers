@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+/**
+ * @inheritdoc
+ */
+class DummyClass extends DummyAbstractClass
+{DummyStubMethods
+}

@@ -1,0 +1,18 @@
+<?php
+
+namespace DummyNamespace;
+
+use ZablockiBros\Mappers\Adapter;
+DummyDocMethods
+abstract class DummyClass extends Adapter
+{
+    /**
+     * @return array
+     */
+    public function mapping(): array
+    {
+        return [
+DummyMapArrayKeys
+        ];
+    }DummyFields
+}

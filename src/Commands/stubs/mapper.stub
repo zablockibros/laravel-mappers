@@ -1,0 +1,14 @@
+<?php
+
+namespace DummyNamespace;
+
+use ZablockiBros\Mappers\Mapper;
+use DummyAdapterFullClass;
+DummyFields
+class DummyClass extends Mapper
+{
+    /**
+     * @var DummyAdapterClass
+     */
+    protected $adapter;
+}
